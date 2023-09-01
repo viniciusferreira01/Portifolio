@@ -1,4 +1,5 @@
-![Uploading Captura de Tela 2023-09-01 às 14.51.09.png…]()
+<img width="1470" alt="Captura de Tela 2023-09-01 às 14 51 09" src="https://github.com/viniciusferreira01/Portifolio/assets/62123390/124b98a0-2b35-476e-aaeb-2fae715c677c">
+
 
 # Projeto Portifolio 
 
