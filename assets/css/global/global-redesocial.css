@@ -1,0 +1,6 @@
+/* CSS global que importa todos os outros CSS */
+@import './fonts-redesocial.css';
+@import './normalize-redesocial.css';
+@import './scrollbar-redesocial.css';
+@import './variables-redesocial.css';
+@import './animations-redesocial.css';
